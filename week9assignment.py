@@ -51,7 +51,6 @@ class Course:
         return "\n".join(stats)
 
 
-# --- Example Usage ---
 s1 = Student("Liam", "S101")
 s2 = Student("Nora", "S102")
 s3 = Student("Omar", "S103")
